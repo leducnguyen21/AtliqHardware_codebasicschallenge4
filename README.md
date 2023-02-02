@@ -18,3 +18,9 @@ a.   Dataset required to provide
 b.   Metadata
 c.   Hints (try not to use the hints to develop your skills quicker)
 d.   Sample questions and Presentation
+
+Other resources Provided:
+a.   Dataset required to provide 
+b.   Metadata
+c.   Hints (try not to use the hints to develop your skills quicker)
+d.   Sample questions and Presentation
