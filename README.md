@@ -25,4 +25,5 @@ b.   Metadata
 c.   Hints (try not to use the hints to develop your skills quicker)
 d.   Sample questions and Presentation
 
-![Screenshot 2023-02-02 195734](https://user-images.githubusercontent.com/104529166/216386812-afe8832e-729e-4a7e-a33a-05b63f23d9ea.png)
+
+![qq1](https://user-images.githubusercontent.com/104529166/216386992-885cef9f-693d-4334-a625-e99868a6d727.png)
